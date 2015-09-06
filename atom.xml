@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://iosdevblog.github.io/Blog/atom.xml" rel="self"/>
   <link href="http://iosdevblog.github.io/Blog/"/>
-  <updated>2015-09-06T14:50:53+08:00</updated>
+  <updated>2015-09-06T15:10:12+08:00</updated>
   <id>http://iosdevblog.github.io/Blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[测试发博客]]></title>
+    <link href="http://iosdevblog.github.io/Blog/blog/2015/09/06/ce-shi-fa-bo-ke/"/>
+    <updated>2015-09-06T15:10:03+08:00</updated>
+    <id>http://iosdevblog.github.io/Blog/blog/2015/09/06/ce-shi-fa-bo-ke</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
